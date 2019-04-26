@@ -1,0 +1,1 @@
+# [過去問](https://atcoder.jp/contests/abs)の解答
